@@ -1,0 +1,76 @@
+# This hosts file is a merged collection domains related to PETA
+#
+# Date: 22 June 2019 17:08 UTC
+# Number of unique domains: 45
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/J0R3D1N/
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start PETA blocking
+
+#=====================================
+0.0.0.0 MarsCandyKills.com
+0.0.0.0 BloodyBurberry.com
+0.0.0.0 CanadasShame.com
+0.0.0.0 DKBunnyButcher.com
+0.0.0.0 RinglingBeatsAnimals.com
+0.0.0.0 SeaWorldofHurt.com
+0.0.0.0 KentuckyFriedCruelty.com
+0.0.0.0 McCruelty.com
+0.0.0.0 LettuceLadies.com
+0.0.0.0 Meat.org
+0.0.0.0 IngridNewkirk.com
+0.0.0.0 JesusPeopleforAnimals.com
+0.0.0.0 PETA.org
+0.0.0.0 PETACatalog.org
+0.0.0.0 PETAMall.com
+0.0.0.0 PETAVanguardSociety.com
+0.0.0.0 peta2.com
+0.0.0.0 PETAKids.com
+0.0.0.0 TeachKind.org
+0.0.0.0 PETALatino.com
+0.0.0.0 PETA.org.au
+0.0.0.0 PETAAsiaPacific.com
+0.0.0.0 81Fur.com
+0.0.0.0 51veg.com
+0.0.0.0 HelpThaiElephants.com
+0.0.0.0 IslamicConcerns.com
+0.0.0.0 NoFur.hk
+0.0.0.0 PETAFrance.com
+0.0.0.0 Elefanten-Online.de
+0.0.0.0 Fischen-Tut-Weh.de
+0.0.0.0 KFCGrausam.de
+0.0.0.0 PelzInfo.de
+0.0.0.0 PETA.de
+0.0.0.0 peta2.de
+0.0.0.0 PETA-Kids.de
+0.0.0.0 CompassionateCitizen.com
+0.0.0.0 PETADishoom.com
+0.0.0.0 PETAIndia.com
+0.0.0.0 PETAIndiaKids.com
+0.0.0.0 PETA.nl
+0.0.0.0 AllAboutAnimals.org.uk
+0.0.0.0 PETA.org.uk
+0.0.0.0 RunningOfTheNudes.com
+0.0.0.0 UnbearableCruelty.com
+0.0.0.0 DoAnglersHaveSmallRods.com
