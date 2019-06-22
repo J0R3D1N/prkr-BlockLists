@@ -3,7 +3,7 @@
 # Date: 22 June 2019 17:08 UTC
 # Number of unique domains: 45
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/J0R3D1N/
+# Fetch the latest version of this file: https://raw.githubusercontent.com/J0R3D1N/prkr-BlockLists/master/peta_domain_blacklist.txt
 #
 # ===============================================================
 
@@ -74,3 +74,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 RunningOfTheNudes.com
 0.0.0.0 UnbearableCruelty.com
 0.0.0.0 DoAnglersHaveSmallRods.com
+0.0.0.0 aspca.org
+0.0.0.0 happycow.net
+0.0.0.0 animalclock.org
